@@ -139,6 +139,9 @@ Interactive dashboards were developed using Microsoft Power BI.
 The dashboard contains 2 interactive pages:
 
 ## Dashboard Page 1 — HR Analysis Dashboard
+## Dashboard Preview
+
+<img width="1278" height="740" alt="Screenshot 2026-05-10 170455" src="https://github.com/user-attachments/assets/e6cd6640-124c-496e-93d0-e37a9ceca896" />
 
 This page provides an overview of the organization’s workforce and employee performance.
 
@@ -238,6 +241,9 @@ Insight
 - Dark-themed professional dashboard design
 
 ## Dashboard Page 2 — Attrition Analysis Dashboard
+## Dashboard Preview
+
+<img width="1313" height="732" alt="Screenshot 2026-05-10 170554" src="https://github.com/user-attachments/assets/2da8042b-ab85-4398-9009-842236a7d1b2" />
 
 This dashboard specifically focuses on employee attrition trends and retention analysis.
 
