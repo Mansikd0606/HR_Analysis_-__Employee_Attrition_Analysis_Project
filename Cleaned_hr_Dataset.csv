@@ -1,0 +1,857 @@
+employee_id,age,gender,department,job_role,monthly_income,years_at_company,work_life_balance,job_satisfaction,overtime,performance_rating,attrition
+87904,19,Male,Admin,Accountant,15650,22,3,4,No,4,No
+27114,54,Female,IT,Manager,15400,25,3,2,No,5,No
+94203,18,Female,HR,HR Executive,15216,11,3,1,Yes,5,No
+86134,43,Female,HR,Team Lead,15341,7,3,1,No,5,No
+46576,41,Male,Admin,Accountant,15051,37,1,1,No,5,Yes
+76458,56,Female,HR,Sales Executive,15398,22,2,4,No,3,Yes
+55266,54,Male,HR,Recruiter,15931,37,4,2,No,3,No
+16514,29,Female,HR,Data Analyst,15017,9,3,2,No,1,No
+92955,21,Female,HR,HR Executive,16172,5,1,3,No,2,No
+47866,43,Male,Operations,Accountant,16339,22,1,4,Yes,1,No
+96904,50,Female,IT,Recruiter,5000,19,2,3,Yes,4,Yes
+56416,41,Male,Finance,Recruiter,16285,16,2,4,No,5,Yes
+18695,59,Female,HR,Recruiter,16341,35,4,4,Yes,5,Yes
+43786,36,Female,Sales,Manager,16003,17,1,4,No,1,No
+58890,48,Female,IT,Software Engineer,16027,37,2,3,Yes,3,No
+21662,53,Female,Marketing,Recruiter,15837,7,4,2,Yes,3,No
+24439,21,Male,Operations,Sales Executive,15545,6,3,4,Yes,2,No
+40822,55,Female,Finance,Software Engineer,16368,16,3,1,Yes,5,No
+71918,57,Male,Sales,Business Analyst,15706,28,2,4,Yes,3,Yes
+45941,27,Male,Admin,HR Executive,15092,40,4,2,No,2,Yes
+53635,43,Male,HR,Manager,16277,32,4,3,Yes,1,No
+1252,37,Female,HR,Team Lead,15823,21,2,4,Yes,4,No
+23348,20,Male,HR,Team Lead,16051,11,2,4,No,4,No
+90978,44,Female,Operations,Business Analyst,5000,12,3,3,Yes,5,No
+32347,28,Female,IT,Team Lead,5000,33,2,3,No,4,Yes
+98034,43,Male,HR,Manager,15924,33,1,3,Yes,1,No
+46830,22,Female,Admin,Accountant,15046,21,1,1,Yes,5,No
+32849,33,Male,Admin,Sales Executive,5000,38,3,4,Yes,4,No
+5276,28,Male,HR,Manager,15361,4,3,1,Yes,2,No
+6873,46,Female,HR,Manager,16031,0,1,4,No,1,No
+15798,48,Female,Operations,Sales Executive,15132,12,3,1,No,5,No
+11643,26,Male,Admin,Recruiter,15059,37,3,2,No,1,No
+99647,37,Male,IT,Software Engineer,16350,8,3,2,No,5,No
+15867,35,Male,HR,Recruiter,5000,38,2,3,Yes,3,No
+44530,21,Female,Finance,Manager,16225,8,1,3,Yes,4,No
+2477,26,Male,Marketing,Recruiter,5000,12,2,4,No,2,No
+86513,51,Male,Admin,HR Executive,15892,8,1,4,Yes,3,Yes
+42015,18,Male,HR,Accountant,5000,16,3,3,Yes,2,No
+56374,39,Male,HR,Manager,15262,40,3,3,No,4,Yes
+8134,24,Female,HR,HR Executive,15927,10,3,2,Yes,1,No
+28315,36,Male,Finance,Accountant,16270,0,2,2,Yes,2,No
+18731,39,Male,HR,Business Analyst,15539,17,3,3,No,1,No
+51735,52,Female,Finance,HR Executive,16322,25,1,1,Yes,3,Yes
+18263,33,Female,Operations,Sales Executive,5000,17,1,1,Yes,1,No
+89276,52,Male,Sales,Business Analyst,15350,1,4,3,No,1,No
+55202,38,Female,Operations,HR Executive,15893,14,3,1,No,4,No
+64689,53,Male,HR,Recruiter,15317,37,4,1,No,3,No
+55982,56,Female,HR,Manager,16361,34,4,4,Yes,2,Yes
+19162,38,Female,Sales,Team Lead,15921,12,4,2,No,5,No
+47672,56,Male,Marketing,Business Analyst,15002,14,2,2,Yes,5,Yes
+39545,37,Male,Finance,Software Engineer,16304,19,3,1,No,5,No
+74751,21,Male,Finance,Team Lead,15850,17,1,4,Yes,3,No
+39409,57,Male,Operations,Software Engineer,15207,0,2,4,No,1,No
+84344,21,Female,Admin,HR Executive,16094,39,3,2,Yes,4,Yes
+52049,43,Female,Admin,Manager,15146,31,1,4,No,3,No
+71629,51,Male,Finance,Business Analyst,15543,26,4,1,Yes,2,No
+6805,60,Female,Operations,Data Analyst,15476,14,4,3,No,1,No
+98947,46,Male,Sales,Accountant,15161,39,2,2,No,2,No
+44108,54,Female,Admin,Data Analyst,16017,28,1,2,Yes,2,No
+25046,30,Male,Sales,Software Engineer,15070,30,4,4,Yes,1,No
+82239,36,Male,Operations,Accountant,15817,4,2,1,Yes,4,No
+24727,54,Female,IT,Software Engineer,16283,17,2,4,No,4,No
+22944,41,Male,Sales,Accountant,15041,31,1,1,Yes,5,No
+94097,22,Female,HR,Accountant,5000,2,4,2,Yes,3,No
+57209,28,Female,Marketing,Sales Executive,15147,23,1,3,No,5,No
+95226,28,Female,Operations,Sales Executive,15523,24,2,1,No,2,No
+54807,37,Female,Admin,Manager,16382,18,4,3,Yes,2,No
+58974,52,Female,HR,Software Engineer,16083,22,2,1,Yes,2,No
+9978,31,Female,HR,Team Lead,15886,31,4,1,Yes,4,No
+38536,51,Female,HR,Sales Executive,15361,5,3,2,No,4,No
+5921,29,Male,Operations,Data Analyst,15596,29,1,3,Yes,1,Yes
+34396,30,Female,Finance,Data Analyst,16144,24,3,3,No,3,No
+56250,46,Male,HR,Accountant,15723,9,2,4,Yes,3,No
+37661,23,Male,Marketing,Sales Executive,16265,26,3,4,No,4,No
+93091,40,Male,HR,Software Engineer,15599,11,2,1,No,3,No
+5517,20,Male,HR,Sales Executive,5000,32,4,4,No,4,No
+46699,56,Male,Operations,Accountant,16256,13,4,3,No,3,No
+48771,20,Female,HR,Sales Executive,15525,31,2,2,Yes,4,No
+49206,58,Female,HR,Manager,15774,24,4,2,Yes,3,No
+79240,47,Male,Finance,Manager,15257,33,4,4,No,3,Yes
+71526,39,Female,Operations,Software Engineer,15287,18,4,4,No,2,Yes
+66918,56,Female,Sales,Accountant,15829,12,3,1,No,1,No
+70984,54,Female,Marketing,Accountant,15663,25,2,2,Yes,2,Yes
+41819,54,Male,Operations,Software Engineer,15210,10,1,3,No,3,Yes
+51661,18,Male,Admin,Sales Executive,15492,5,1,2,Yes,2,No
+85127,41,Female,IT,Business Analyst,15517,0,1,1,No,5,Yes
+1938,29,Male,HR,Software Engineer,5000,0,1,1,Yes,3,No
+77347,51,Male,Marketing,HR Executive,15136,27,2,4,Yes,1,No
+73236,57,Male,Operations,Accountant,5000,34,2,3,No,2,No
+63362,29,Female,Finance,Manager,16103,35,1,4,No,2,No
+61634,38,Female,HR,Manager,15037,10,3,4,Yes,3,No
+65618,47,Male,Marketing,Software Engineer,16180,15,2,2,No,4,No
+85423,58,Female,Marketing,Business Analyst,15402,24,2,1,No,3,No
+15887,37,Female,HR,Manager,15647,18,1,2,No,4,No
+23249,30,Male,Operations,HR Executive,15069,39,3,3,No,2,Yes
+23373,37,Female,Operations,Accountant,5000,11,2,4,No,1,No
+64217,43,Male,Admin,Software Engineer,15442,16,1,2,Yes,5,No
+8528,50,Male,HR,Accountant,16190,33,2,1,Yes,4,No
+4613,42,Male,IT,Team Lead,5000,31,4,4,Yes,4,No
+48573,20,Male,HR,Accountant,16180,10,1,2,Yes,3,No
+55171,19,Female,HR,Team Lead,15823,29,3,1,No,1,No
+34170,23,Male,Sales,HR Executive,16271,17,4,4,Yes,3,No
+85109,43,Female,IT,Data Analyst,15850,9,1,4,Yes,1,Yes
+98199,19,Male,Marketing,Accountant,15783,4,4,1,Yes,3,No
+72909,18,Male,HR,Manager,15999,12,4,3,Yes,1,No
+85852,48,Male,IT,Team Lead,15355,32,3,1,No,1,No
+72896,28,Female,Finance,Recruiter,15882,21,4,3,Yes,5,No
+71327,20,Male,HR,Sales Executive,16336,23,3,1,No,1,No
+54501,58,Male,HR,Data Analyst,15334,12,1,3,No,1,No
+87348,60,Male,Admin,Data Analyst,16209,27,2,3,No,4,No
+12697,40,Female,IT,HR Executive,16326,13,4,2,No,3,No
+64678,54,Male,Sales,Business Analyst,15263,37,4,3,Yes,5,No
+59339,32,Female,Admin,Business Analyst,16197,13,1,1,Yes,4,No
+5878,60,Female,HR,Data Analyst,5000,37,4,1,Yes,1,No
+27518,22,Male,HR,Data Analyst,15176,36,1,1,No,1,No
+73361,53,Female,HR,Accountant,15463,34,3,2,No,4,Yes
+59536,34,Male,Sales,Team Lead,16022,20,2,2,Yes,3,Yes
+50882,36,Male,Sales,Sales Executive,5000,30,2,2,Yes,3,No
+71850,50,Male,Sales,Team Lead,15010,26,4,1,Yes,4,No
+51632,34,Female,Finance,Business Analyst,16132,18,2,1,No,1,No
+78061,41,Female,Admin,Data Analyst,15011,40,3,3,No,3,No
+29147,39,Female,HR,Manager,5000,15,1,4,Yes,1,No
+7135,33,Male,HR,Software Engineer,5000,18,1,4,Yes,3,Yes
+80578,50,Female,HR,Software Engineer,15525,32,3,4,Yes,2,No
+24114,33,Female,HR,Team Lead,16314,16,4,2,Yes,3,No
+32512,51,Male,Operations,Manager,15571,38,1,2,Yes,2,No
+99495,29,Female,IT,Sales Executive,15694,39,1,4,Yes,1,No
+11374,29,Female,HR,Recruiter,15149,13,3,1,Yes,5,No
+99264,24,Female,Marketing,Business Analyst,15727,5,1,3,Yes,4,No
+58199,28,Male,HR,Accountant,15333,7,3,3,No,2,No
+43145,18,Male,Finance,Sales Executive,15295,27,1,4,Yes,1,No
+6485,52,Male,Marketing,Software Engineer,15346,11,4,3,Yes,4,No
+59031,58,Female,HR,Manager,15247,22,2,3,Yes,2,No
+40243,60,Male,HR,Sales Executive,16175,11,1,4,Yes,1,No
+56485,31,Male,Marketing,Business Analyst,15954,15,2,3,No,2,No
+93221,22,Male,Finance,HR Executive,15248,38,4,2,No,1,No
+3680,41,Male,HR,Software Engineer,15926,27,4,1,Yes,4,No
+37737,36,Female,Operations,Data Analyst,16010,30,3,3,No,2,No
+78860,32,Male,Marketing,Sales Executive,15693,16,4,1,Yes,5,No
+30205,43,Male,HR,Data Analyst,16167,18,1,1,Yes,3,No
+87177,47,Female,Operations,Team Lead,15052,33,3,3,Yes,2,No
+30868,22,Female,HR,Data Analyst,15332,10,4,3,No,5,Yes
+56570,46,Female,Finance,Business Analyst,15332,33,1,3,No,2,Yes
+33199,52,Male,IT,Team Lead,15704,9,4,3,No,4,No
+31635,57,Male,HR,Manager,15073,24,4,3,No,2,No
+65402,58,Female,Finance,HR Executive,15269,28,3,3,No,1,No
+25160,58,Male,HR,HR Executive,15202,19,1,1,No,2,No
+8638,40,Female,Sales,Software Engineer,15708,26,2,4,No,5,No
+80522,49,Male,Marketing,Recruiter,15497,11,2,1,Yes,4,No
+86423,27,Female,HR,Business Analyst,15367,23,1,2,Yes,3,No
+59100,35,Female,HR,Recruiter,15233,9,2,1,Yes,3,No
+48013,35,Male,HR,Team Lead,15413,8,4,2,No,3,Yes
+30340,58,Male,Admin,Sales Executive,15189,31,3,2,No,5,Yes
+28691,51,Female,HR,Accountant,15285,17,1,3,No,4,No
+64868,42,Male,HR,Accountant,15217,19,1,4,Yes,2,No
+61529,23,Male,IT,Accountant,15120,3,3,1,No,1,Yes
+35769,20,Female,Admin,Accountant,15745,29,2,4,Yes,2,No
+93685,58,Male,HR,HR Executive,5000,8,3,1,Yes,4,No
+25385,32,Male,Admin,Team Lead,16034,30,1,4,No,4,No
+88405,56,Female,Sales,Recruiter,15620,34,1,1,No,1,No
+73306,31,Female,HR,Business Analyst,15246,15,3,1,Yes,1,No
+31158,36,Female,Marketing,Sales Executive,15617,22,4,3,Yes,2,No
+9461,23,Female,HR,HR Executive,15465,0,3,3,No,1,Yes
+16058,55,Male,Admin,Business Analyst,5000,6,1,4,No,2,No
+51063,23,Female,HR,HR Executive,16248,28,1,3,Yes,2,No
+81696,30,Male,IT,Team Lead,15809,26,1,1,No,5,Yes
+49296,52,Male,Finance,Team Lead,16215,29,4,1,No,2,No
+97057,52,Male,HR,Accountant,15282,37,4,3,No,2,No
+20050,19,Male,HR,Sales Executive,16195,24,1,1,Yes,2,Yes
+84072,56,Male,HR,HR Executive,16302,0,3,3,Yes,1,Yes
+16000,52,Male,HR,Manager,16102,8,2,1,Yes,2,No
+81037,47,Male,Marketing,Data Analyst,15803,40,1,3,No,3,No
+79757,36,Male,HR,Business Analyst,16050,35,4,3,No,3,No
+77143,38,Female,IT,Data Analyst,16312,33,1,4,No,3,No
+93243,38,Male,HR,Accountant,15999,22,2,2,Yes,1,No
+91740,59,Male,Sales,Manager,5000,26,2,3,Yes,4,No
+44796,22,Male,HR,Recruiter,16216,1,1,1,Yes,3,No
+68646,48,Female,HR,Sales Executive,16304,6,4,1,No,3,No
+25534,22,Female,Admin,Manager,15381,17,4,3,No,2,No
+18692,56,Female,HR,Software Engineer,16380,27,3,2,Yes,1,No
+96346,18,Male,HR,Data Analyst,15812,12,3,3,Yes,1,No
+91122,29,Female,Finance,Business Analyst,15756,23,2,1,No,2,No
+39267,44,Male,Sales,Sales Executive,15137,28,3,2,No,5,No
+53573,43,Male,IT,Manager,15983,35,2,1,Yes,4,Yes
+56507,43,Female,IT,Sales Executive,15170,20,3,3,Yes,4,No
+10605,22,Male,HR,Business Analyst,15853,40,4,2,Yes,1,No
+61103,36,Female,HR,Sales Executive,16149,22,3,3,Yes,5,No
+51385,29,Male,Sales,HR Executive,15030,11,1,3,No,1,Yes
+21291,45,Female,Sales,Software Engineer,5000,37,2,4,Yes,3,Yes
+83988,46,Female,Finance,Team Lead,16354,10,2,4,Yes,5,No
+33719,33,Female,HR,Business Analyst,15739,13,3,4,No,1,No
+99759,40,Female,Marketing,Manager,15326,5,3,3,Yes,5,No
+96449,40,Male,IT,Sales Executive,16187,13,4,2,Yes,3,Yes
+42353,49,Female,HR,Software Engineer,15925,35,2,3,No,4,No
+48035,36,Female,Marketing,Team Lead,16245,8,1,4,Yes,2,No
+96146,41,Male,HR,Accountant,15980,14,1,4,No,3,No
+25948,28,Male,IT,Accountant,15825,27,4,3,Yes,5,No
+94529,22,Male,HR,Data Analyst,15178,15,1,1,No,2,No
+31844,58,Male,Operations,Manager,16264,34,2,2,Yes,4,No
+51047,39,Male,IT,Software Engineer,16248,37,3,2,Yes,1,Yes
+51127,25,Female,Operations,Data Analyst,15828,18,3,4,Yes,3,No
+12970,50,Male,Operations,Team Lead,15944,28,2,2,No,5,No
+22922,37,Male,HR,Data Analyst,16241,39,4,4,Yes,2,No
+81873,60,Male,Admin,Accountant,16096,31,2,4,Yes,5,No
+66570,20,Female,Admin,Recruiter,5000,38,3,1,Yes,4,No
+99903,58,Male,Operations,Team Lead,15307,16,2,3,Yes,4,No
+34180,39,Male,Marketing,Manager,15447,12,1,1,Yes,3,No
+32146,45,Male,HR,Data Analyst,15480,31,3,1,Yes,3,No
+18208,60,Male,HR,Manager,15661,9,1,4,Yes,4,No
+92318,48,Female,HR,Data Analyst,15335,2,2,1,Yes,1,No
+51448,58,Male,Operations,Data Analyst,15591,36,1,3,Yes,2,No
+24057,54,Male,Sales,HR Executive,16152,20,3,3,No,1,No
+8633,54,Female,HR,Accountant,15123,29,1,1,Yes,2,No
+13790,59,Female,HR,Business Analyst,15577,35,1,3,Yes,5,No
+15693,46,Female,HR,Sales Executive,15024,6,4,4,No,3,No
+48308,35,Female,Finance,Accountant,16126,25,3,4,Yes,4,No
+94812,47,Male,Operations,Sales Executive,16363,32,3,4,Yes,5,No
+76257,49,Female,HR,Software Engineer,15191,17,4,2,Yes,4,Yes
+52845,21,Female,Marketing,Team Lead,15667,15,3,4,No,2,No
+63596,26,Female,Operations,Software Engineer,15128,7,4,4,Yes,5,No
+70404,37,Male,Operations,Recruiter,15889,35,2,3,Yes,5,No
+75318,35,Male,Admin,HR Executive,16100,9,1,1,No,5,No
+12585,31,Female,Finance,HR Executive,16018,25,4,1,Yes,4,No
+19057,46,Female,IT,Software Engineer,16262,0,3,4,No,1,Yes
+66376,50,Male,HR,Data Analyst,15888,3,3,3,No,1,Yes
+78780,57,Female,Marketing,HR Executive,15140,15,2,1,No,4,No
+62511,51,Male,HR,Business Analyst,16262,33,4,3,Yes,3,No
+13929,59,Male,Operations,Team Lead,15393,34,4,4,Yes,2,No
+12991,22,Male,Sales,Data Analyst,5000,16,1,4,Yes,5,Yes
+10928,56,Female,Finance,Recruiter,15994,28,1,1,Yes,4,Yes
+6376,43,Male,Finance,Data Analyst,15575,22,3,3,No,3,Yes
+13259,53,Male,Finance,Recruiter,15741,23,3,3,Yes,2,No
+23356,60,Male,Operations,Business Analyst,15829,16,2,1,No,3,No
+13769,23,Male,IT,Business Analyst,15105,40,4,1,Yes,5,No
+21469,28,Male,Operations,Manager,15512,27,3,4,No,1,No
+68166,56,Female,IT,Business Analyst,15536,12,2,4,No,2,No
+11057,42,Male,Marketing,Business Analyst,15838,34,3,4,Yes,5,No
+71792,44,Female,HR,Sales Executive,15306,22,3,4,Yes,1,Yes
+24876,18,Male,HR,Accountant,15253,37,2,3,No,3,No
+99364,47,Male,IT,Business Analyst,16139,6,2,4,No,5,No
+22477,30,Male,Sales,Team Lead,16241,32,4,1,No,2,No
+7619,29,Male,HR,Team Lead,15523,33,2,2,No,5,Yes
+69657,22,Female,Finance,Business Analyst,15867,30,2,4,No,4,No
+93231,51,Female,Finance,HR Executive,16352,35,1,1,Yes,3,No
+9058,48,Female,HR,Software Engineer,16262,23,2,2,No,2,No
+21438,30,Female,Finance,Business Analyst,15786,14,3,1,Yes,5,Yes
+98704,55,Male,Marketing,Data Analyst,16244,15,2,1,No,1,No
+23632,58,Female,IT,Team Lead,15469,10,3,3,No,5,No
+40932,32,Male,Operations,Software Engineer,15818,25,4,4,No,2,No
+49854,58,Female,Sales,Business Analyst,16374,40,1,2,No,4,No
+99511,42,Male,Marketing,Team Lead,15082,33,3,4,No,5,Yes
+64814,45,Female,HR,Sales Executive,15683,24,2,3,Yes,4,No
+35664,37,Male,Operations,Team Lead,15315,29,4,1,Yes,4,No
+10476,21,Male,Sales,Sales Executive,15325,26,2,1,Yes,4,Yes
+51681,18,Female,Finance,Software Engineer,16155,14,3,1,No,2,Yes
+65795,31,Female,Sales,Sales Executive,15285,25,4,2,Yes,4,No
+23791,45,Male,Marketing,Recruiter,15015,22,1,3,No,3,No
+47594,39,Female,Finance,Manager,15748,25,4,1,Yes,2,Yes
+20761,26,Male,HR,HR Executive,15006,4,1,2,Yes,1,No
+81411,54,Male,HR,Manager,15395,25,2,2,Yes,4,No
+18230,33,Male,HR,Sales Executive,15028,14,3,4,Yes,4,No
+90951,50,Female,IT,Data Analyst,15554,35,2,4,Yes,5,No
+64586,36,Female,Operations,Recruiter,5000,4,3,3,Yes,4,Yes
+97936,18,Male,Admin,Recruiter,16110,27,4,2,No,2,No
+61216,38,Male,HR,Data Analyst,16059,30,1,3,Yes,1,No
+3687,59,Male,Marketing,Accountant,15613,28,2,2,No,1,No
+15607,51,Female,Operations,HR Executive,15700,7,4,3,No,5,Yes
+93735,40,Female,Finance,Business Analyst,16125,1,3,3,Yes,4,No
+97829,55,Male,Admin,Sales Executive,15201,26,3,4,No,5,No
+31644,52,Female,Finance,Business Analyst,16181,28,2,4,No,3,No
+31252,36,Female,Sales,Manager,15407,4,4,2,No,5,No
+70658,50,Male,Marketing,Team Lead,16340,18,2,2,No,5,No
+78036,29,Male,HR,Software Engineer,16373,31,1,3,No,5,No
+40746,32,Male,HR,Data Analyst,15965,31,4,3,Yes,2,No
+49514,44,Female,HR,HR Executive,15621,37,3,3,No,4,No
+54175,18,Female,Operations,Data Analyst,15277,33,2,2,Yes,3,No
+28682,48,Male,HR,Manager,16191,9,1,1,Yes,2,No
+8099,59,Female,HR,HR Executive,15208,28,2,1,Yes,2,No
+16630,18,Female,HR,Software Engineer,5000,16,4,1,No,3,No
+17945,24,Female,Finance,Manager,16314,19,4,4,No,4,Yes
+33526,44,Male,IT,HR Executive,15821,18,2,1,Yes,5,Yes
+31663,27,Female,HR,Team Lead,16022,19,3,1,No,3,No
+21650,57,Female,Finance,Data Analyst,5000,20,1,4,No,2,No
+62878,34,Male,Finance,Accountant,15472,38,2,2,No,1,No
+98110,41,Female,HR,Sales Executive,15537,17,2,3,No,2,No
+29322,20,Male,Finance,Data Analyst,15320,32,3,2,No,4,No
+61791,20,Male,Operations,Manager,15407,28,2,4,Yes,2,No
+73851,19,Male,Operations,Recruiter,15482,21,2,3,No,1,No
+7697,40,Female,HR,HR Executive,15230,22,3,2,No,4,Yes
+99484,49,Female,Finance,Manager,15564,4,4,4,Yes,4,No
+24735,43,Male,Operations,Data Analyst,15334,31,1,2,No,3,Yes
+5654,22,Male,Admin,Accountant,15573,9,1,1,No,2,No
+59850,23,Male,HR,Accountant,15749,22,4,4,Yes,3,No
+51463,29,Female,Marketing,Accountant,15819,8,4,4,No,2,Yes
+49562,21,Male,Admin,Business Analyst,15122,25,2,2,No,3,No
+83995,21,Female,HR,Sales Executive,15431,22,1,3,No,1,No
+40230,51,Male,HR,Data Analyst,15511,21,3,2,No,3,No
+56825,45,Male,HR,Data Analyst,15445,15,3,2,Yes,4,Yes
+81485,58,Female,HR,Team Lead,15986,11,1,2,Yes,3,No
+59450,42,Male,HR,Data Analyst,15551,15,2,3,Yes,4,No
+35343,37,Female,HR,Recruiter,5000,18,3,3,Yes,2,No
+56514,30,Male,Sales,Software Engineer,15277,5,3,2,Yes,2,No
+11414,54,Male,Operations,Accountant,16236,2,2,4,Yes,4,No
+43584,35,Female,Operations,Team Lead,15293,1,3,4,No,5,No
+43706,32,Male,Operations,Manager,15030,9,2,1,Yes,4,No
+25550,30,Female,Admin,Sales Executive,16232,16,3,1,Yes,3,No
+72029,52,Female,Admin,Recruiter,15966,3,1,3,No,5,Yes
+27539,40,Male,Sales,Accountant,16060,4,1,2,No,4,No
+57663,23,Female,IT,Manager,15903,1,1,4,Yes,5,No
+4306,29,Male,HR,Data Analyst,15855,12,3,4,No,2,No
+71032,55,Female,Admin,Business Analyst,5000,29,4,3,No,4,No
+31471,21,Male,HR,Team Lead,15668,12,4,1,No,3,No
+50090,48,Female,Marketing,Business Analyst,15151,16,4,3,No,5,Yes
+25648,33,Female,IT,Data Analyst,15030,21,1,2,No,2,No
+40579,52,Male,HR,Software Engineer,5000,25,4,1,No,4,Yes
+44808,32,Female,Sales,HR Executive,15244,24,4,4,Yes,3,No
+16817,55,Male,Marketing,Software Engineer,16037,36,2,1,Yes,2,No
+84824,47,Female,HR,Accountant,5000,27,4,3,No,2,No
+51496,29,Male,Admin,Recruiter,15218,17,2,2,Yes,3,Yes
+66137,30,Female,HR,Business Analyst,15875,27,2,4,Yes,4,Yes
+59851,50,Female,Operations,Accountant,15662,29,3,2,Yes,1,No
+87618,46,Female,HR,Manager,15231,11,4,3,No,1,No
+61364,29,Female,Admin,Data Analyst,16031,27,2,2,Yes,1,No
+77063,27,Female,Finance,Manager,16106,32,2,2,Yes,2,No
+25076,27,Male,HR,Data Analyst,15527,33,2,1,Yes,2,Yes
+3566,44,Female,Sales,Manager,15905,13,2,1,No,3,Yes
+27469,24,Male,Admin,Recruiter,16356,10,4,4,No,4,Yes
+49569,31,Male,Finance,Software Engineer,15671,21,1,3,No,2,No
+9503,53,Female,HR,Data Analyst,15939,24,4,4,Yes,2,No
+94842,23,Male,IT,Recruiter,15458,16,4,2,Yes,1,No
+42559,24,Female,HR,Recruiter,15964,38,1,2,No,3,No
+4820,42,Female,Operations,HR Executive,15206,31,1,2,No,5,No
+55509,58,Male,Marketing,Sales Executive,15647,21,3,1,No,4,No
+97627,47,Female,HR,Data Analyst,15923,15,4,2,No,2,No
+66809,39,Female,Operations,Team Lead,15678,39,2,2,Yes,2,No
+66185,21,Male,Finance,Manager,16129,26,4,3,Yes,4,No
+83654,45,Female,Sales,Team Lead,5000,36,4,2,No,3,No
+32578,43,Male,Sales,Sales Executive,16015,0,3,4,No,1,No
+52608,26,Female,Operations,Recruiter,15116,30,1,1,No,1,No
+50567,25,Female,HR,Data Analyst,15453,32,1,3,Yes,4,No
+98335,24,Female,IT,Recruiter,15074,24,1,4,No,5,Yes
+57710,38,Male,Finance,Accountant,16232,26,1,1,No,3,No
+10006,22,Female,IT,Accountant,5000,26,2,1,No,3,No
+65446,25,Female,HR,Business Analyst,15660,6,3,2,No,4,No
+53657,59,Female,HR,Team Lead,15688,30,1,1,No,5,No
+97769,18,Female,HR,Manager,16144,13,2,4,No,3,No
+25764,47,Male,Finance,Recruiter,16010,7,2,2,No,3,No
+91154,28,Male,Operations,Software Engineer,15048,37,2,3,No,5,Yes
+19948,53,Female,HR,Accountant,15581,32,1,2,Yes,1,No
+1945,34,Female,HR,HR Executive,15706,4,1,2,No,2,Yes
+42838,27,Male,Admin,Data Analyst,16332,31,2,4,No,1,No
+77052,32,Female,HR,Software Engineer,15199,4,2,3,Yes,5,Yes
+61816,37,Female,HR,Team Lead,16338,36,4,3,Yes,1,No
+54132,39,Female,Operations,Software Engineer,5000,13,3,3,Yes,3,No
+87730,35,Male,HR,Data Analyst,15359,21,1,3,Yes,5,No
+53098,52,Female,Finance,Data Analyst,15063,31,1,3,No,4,Yes
+22352,42,Male,Admin,Accountant,15414,5,1,2,No,4,No
+93296,38,Male,HR,Accountant,16333,5,3,3,No,4,No
+75570,36,Female,HR,HR Executive,16121,37,2,1,No,3,No
+83394,29,Male,Marketing,Accountant,15389,0,1,4,Yes,3,No
+63182,26,Male,Sales,Accountant,15546,5,2,3,Yes,2,No
+94812,39,Male,Operations,Software Engineer,15009,0,1,2,No,4,No
+39464,18,Female,Operations,Recruiter,15054,20,4,3,No,5,No
+15768,27,Female,IT,Business Analyst,16181,28,2,3,No,3,Yes
+38291,44,Female,Admin,Accountant,15966,27,4,2,No,1,No
+57241,25,Male,HR,HR Executive,15798,37,2,2,No,4,No
+12912,54,Female,Finance,Accountant,15704,32,2,1,No,1,No
+60578,27,Male,Admin,Team Lead,15298,26,4,2,Yes,3,No
+99389,47,Male,HR,Recruiter,15864,9,3,3,Yes,4,No
+73820,46,Female,Admin,Team Lead,15395,26,3,2,Yes,3,No
+14682,35,Male,HR,Accountant,15132,34,1,4,Yes,5,Yes
+52566,18,Male,HR,Team Lead,15222,20,1,1,Yes,2,No
+14403,35,Female,HR,Data Analyst,15225,22,1,1,No,1,No
+93027,19,Female,IT,Manager,15124,27,2,1,No,5,No
+39578,56,Male,HR,Sales Executive,15758,8,2,4,Yes,3,Yes
+78006,44,Male,HR,Accountant,5000,31,4,3,Yes,1,No
+8316,22,Female,Sales,Accountant,15710,0,2,1,Yes,2,Yes
+17575,60,Female,Marketing,Accountant,16097,10,1,4,No,2,No
+27886,44,Female,HR,Team Lead,15458,9,3,3,No,2,No
+76794,30,Male,HR,Software Engineer,16110,25,1,3,No,2,No
+59419,38,Female,HR,Data Analyst,16105,4,4,2,Yes,1,Yes
+22949,28,Female,Finance,Sales Executive,15719,5,3,4,Yes,2,No
+76287,53,Female,Sales,Accountant,5000,34,1,1,Yes,2,No
+7362,32,Female,Admin,Data Analyst,16144,17,4,4,No,1,No
+70771,28,Male,Marketing,Sales Executive,15555,33,4,2,No,5,No
+42509,51,Male,IT,Software Engineer,15780,17,4,1,No,4,No
+41089,51,Male,Marketing,Software Engineer,5000,4,1,4,Yes,5,Yes
+47369,40,Male,Admin,Accountant,16334,36,3,2,No,4,No
+14500,33,Male,Finance,Data Analyst,15714,19,3,4,Yes,1,Yes
+15532,51,Female,HR,Data Analyst,16171,0,2,4,Yes,3,Yes
+98942,37,Female,Finance,Recruiter,15417,23,4,2,No,1,No
+81400,34,Male,Sales,Recruiter,15672,21,1,1,Yes,2,No
+20794,41,Male,HR,HR Executive,5000,10,1,1,No,5,No
+60066,32,Female,Admin,Recruiter,16050,40,2,4,No,3,No
+87949,60,Male,Finance,HR Executive,15045,14,2,2,No,2,No
+68292,36,Female,Finance,Data Analyst,15595,29,4,1,No,1,No
+8847,36,Male,Finance,Data Analyst,16017,24,3,1,No,4,No
+56939,23,Male,IT,Data Analyst,15351,10,3,3,Yes,2,No
+60046,50,Male,Sales,Sales Executive,5000,25,4,3,No,5,No
+68962,55,Female,Admin,Software Engineer,16166,30,2,4,Yes,1,No
+96955,47,Female,Sales,Business Analyst,15452,31,3,1,Yes,5,Yes
+69433,54,Female,Operations,HR Executive,16243,13,1,3,No,1,No
+86142,32,Female,HR,Business Analyst,16140,1,4,4,Yes,3,Yes
+93821,21,Female,Finance,Data Analyst,15651,21,4,4,No,1,Yes
+93234,27,Male,HR,Data Analyst,5000,21,4,3,No,1,Yes
+77790,19,Male,Operations,Business Analyst,5000,28,1,2,No,4,No
+93516,35,Male,HR,Team Lead,16201,12,1,3,No,2,No
+36918,49,Male,HR,Manager,16128,26,2,4,Yes,4,No
+98953,23,Female,HR,Data Analyst,15393,39,1,1,No,1,No
+52137,43,Male,HR,Software Engineer,15587,23,2,2,No,2,No
+59301,55,Male,HR,Accountant,15517,4,3,1,No,4,No
+89901,22,Male,Operations,Business Analyst,15050,10,3,3,Yes,5,No
+91352,36,Male,HR,HR Executive,15734,25,1,3,No,2,No
+68575,25,Female,Operations,Software Engineer,15902,11,4,2,Yes,2,No
+26005,35,Female,IT,HR Executive,15828,22,4,4,No,5,No
+79742,39,Female,Finance,HR Executive,5000,8,1,4,Yes,2,No
+68585,48,Female,IT,Accountant,15464,16,3,4,Yes,1,No
+22744,54,Female,HR,HR Executive,15780,38,3,3,No,3,No
+55451,24,Female,HR,Business Analyst,15385,38,1,4,No,1,No
+93862,18,Female,HR,Accountant,15258,16,2,3,Yes,4,Yes
+87351,35,Male,HR,Recruiter,5000,6,1,3,Yes,3,No
+7973,42,Female,Finance,Software Engineer,16320,22,1,3,No,2,No
+98465,42,Male,HR,Recruiter,15752,39,3,3,Yes,2,Yes
+14607,18,Female,HR,Accountant,15645,39,1,2,Yes,2,Yes
+36388,60,Male,HR,HR Executive,15265,15,1,3,Yes,3,No
+94887,58,Male,Marketing,Software Engineer,15852,18,4,3,Yes,3,No
+47835,21,Male,IT,Sales Executive,15028,0,2,1,No,4,No
+89919,27,Male,Sales,Business Analyst,16205,19,2,3,No,5,No
+31612,35,Female,Admin,Business Analyst,15714,19,2,3,Yes,5,No
+99208,32,Male,Finance,Business Analyst,5000,5,1,4,Yes,1,No
+48586,53,Male,HR,Data Analyst,16301,29,2,3,No,5,No
+87606,34,Female,Finance,Manager,15056,38,3,3,Yes,1,Yes
+62731,52,Female,Sales,Recruiter,16103,30,2,3,Yes,4,No
+31879,39,Female,Operations,Data Analyst,15920,7,2,4,No,1,No
+95017,52,Male,Operations,Accountant,16042,11,4,3,No,3,Yes
+49324,40,Female,IT,Business Analyst,5000,23,1,2,Yes,2,No
+37860,25,Male,HR,Team Lead,15324,37,1,1,No,3,Yes
+48605,24,Male,HR,Accountant,15863,22,2,4,Yes,5,No
+18358,37,Female,Marketing,Sales Executive,15380,17,1,4,No,1,Yes
+40641,50,Female,HR,Recruiter,15167,29,3,4,No,4,No
+17925,53,Male,HR,Recruiter,5000,7,1,3,Yes,2,Yes
+91728,54,Male,Sales,Manager,15348,32,3,2,Yes,1,No
+83866,34,Male,IT,Data Analyst,16255,35,1,3,Yes,3,No
+16625,18,Female,Sales,Sales Executive,16388,38,1,3,Yes,4,No
+95533,44,Female,Marketing,HR Executive,15164,40,1,1,No,3,No
+37613,41,Male,HR,Software Engineer,15296,3,2,1,No,3,No
+15005,24,Female,HR,Manager,15052,22,1,3,No,3,No
+50263,44,Male,Marketing,Recruiter,16058,30,2,2,No,5,Yes
+21942,46,Male,HR,Accountant,15905,13,1,1,No,3,No
+12814,32,Female,IT,Data Analyst,15468,35,3,2,Yes,2,No
+99610,25,Male,Sales,Accountant,15360,29,3,1,Yes,1,Yes
+95215,45,Male,HR,Manager,16274,29,1,1,No,3,No
+42862,37,Female,Sales,Business Analyst,15908,40,3,4,No,5,Yes
+92067,24,Male,Marketing,Accountant,15769,27,3,1,Yes,1,Yes
+83916,22,Male,HR,Sales Executive,5000,35,1,4,No,1,No
+86470,45,Male,Sales,Recruiter,5000,28,2,4,No,3,No
+41115,44,Male,Operations,Software Engineer,15032,8,3,2,Yes,5,Yes
+31940,47,Female,Admin,Sales Executive,16270,40,2,4,No,3,No
+31445,36,Female,Marketing,Accountant,15977,10,3,2,No,5,No
+8123,54,Female,HR,Software Engineer,15616,4,4,3,Yes,3,No
+70476,59,Male,Admin,Team Lead,16271,11,2,3,Yes,3,No
+48248,54,Male,Sales,Sales Executive,16296,18,3,1,No,4,No
+45320,39,Male,Marketing,Manager,16287,2,2,3,Yes,2,No
+44984,57,Male,HR,Sales Executive,15436,25,4,3,Yes,1,Yes
+13808,31,Male,Admin,Data Analyst,5000,37,1,3,No,2,No
+25534,56,Female,HR,Recruiter,5000,14,4,3,Yes,4,No
+23424,41,Male,Sales,Data Analyst,15270,24,3,4,No,2,No
+59221,52,Male,HR,Sales Executive,15804,25,1,4,Yes,2,Yes
+40834,19,Male,Operations,Software Engineer,15546,27,3,3,No,2,No
+96106,40,Female,IT,Accountant,15835,29,4,4,Yes,2,No
+73583,27,Male,HR,Software Engineer,15226,12,4,2,No,3,No
+99801,48,Female,HR,Manager,15099,35,2,3,Yes,4,No
+47861,28,Male,HR,Accountant,5000,5,3,3,No,3,No
+68670,35,Male,HR,Recruiter,15346,25,1,3,Yes,3,Yes
+49206,58,Female,HR,Manager,15774,24,4,2,Yes,3,No
+61753,30,Female,Finance,Software Engineer,15528,3,3,1,Yes,1,No
+52304,47,Male,Marketing,Team Lead,15506,36,1,4,No,4,No
+25967,43,Female,Finance,Business Analyst,15136,36,2,3,Yes,2,No
+12189,18,Female,IT,Manager,15524,37,2,1,Yes,4,Yes
+28852,19,Female,IT,HR Executive,15373,19,3,3,Yes,1,Yes
+50071,24,Male,Admin,HR Executive,5000,40,2,2,No,5,No
+16546,32,Female,Finance,HR Executive,15429,40,3,3,No,2,No
+14631,59,Female,HR,Team Lead,15541,2,3,4,Yes,3,Yes
+78385,29,Female,HR,Data Analyst,16253,27,1,3,Yes,5,Yes
+18339,35,Female,HR,Software Engineer,15317,39,2,1,No,1,No
+62297,59,Female,Finance,Business Analyst,15552,1,1,1,Yes,3,No
+36897,19,Male,Marketing,Business Analyst,16317,29,2,3,Yes,5,No
+92699,56,Female,Marketing,Recruiter,15183,39,3,2,Yes,3,Yes
+69070,22,Male,Admin,Accountant,16071,9,1,1,No,5,No
+33734,28,Female,Sales,Software Engineer,15892,40,2,2,Yes,1,No
+66617,26,Male,HR,Software Engineer,15309,39,2,3,No,3,No
+55358,54,Male,Admin,Data Analyst,16183,12,3,3,Yes,2,No
+50626,19,Male,Operations,Data Analyst,15614,32,4,3,No,5,No
+40078,51,Female,Finance,Team Lead,15662,29,2,2,No,3,Yes
+74107,51,Female,Finance,HR Executive,5000,3,2,1,Yes,2,No
+45181,40,Male,Sales,Software Engineer,5000,29,3,4,No,5,Yes
+82285,57,Male,Operations,Data Analyst,5000,12,3,1,No,5,Yes
+41223,21,Female,Operations,Team Lead,16024,1,2,2,Yes,5,Yes
+46349,48,Male,Sales,Accountant,15144,27,1,1,Yes,2,Yes
+1814,41,Female,HR,HR Executive,5000,2,3,2,No,1,No
+68375,56,Female,Admin,Software Engineer,15254,29,1,4,Yes,2,No
+97022,43,Male,HR,Software Engineer,16349,8,1,3,No,4,No
+6727,25,Female,HR,Team Lead,15319,22,2,3,No,1,No
+77913,46,Male,Admin,HR Executive,15212,5,4,3,Yes,3,No
+35678,22,Male,Finance,Manager,15083,9,3,3,Yes,5,Yes
+15240,40,Female,Marketing,Recruiter,15919,33,4,1,No,1,No
+78576,59,Male,Sales,Business Analyst,15662,40,2,1,Yes,5,No
+18786,52,Female,Finance,HR Executive,16039,18,4,3,Yes,1,No
+4234,34,Male,Operations,Manager,15502,8,1,2,Yes,2,No
+66069,52,Female,HR,Manager,15980,26,2,4,Yes,5,No
+86208,42,Male,Operations,Business Analyst,5000,1,2,2,Yes,4,No
+2324,56,Female,Admin,Sales Executive,15188,25,4,1,Yes,2,No
+26902,52,Female,IT,Manager,15436,24,1,1,No,2,Yes
+42118,26,Male,HR,HR Executive,15364,27,4,4,No,3,No
+91003,48,Female,IT,Manager,15796,33,2,1,Yes,2,No
+53040,31,Female,Operations,Data Analyst,5000,3,1,4,No,2,No
+18810,37,Female,HR,Business Analyst,5000,33,2,1,No,5,No
+90637,53,Female,Admin,Sales Executive,16000,27,4,2,No,1,No
+76047,32,Male,HR,Team Lead,5000,29,1,3,Yes,4,No
+92883,44,Male,Finance,Business Analyst,15958,25,2,4,No,3,No
+30108,56,Male,Finance,Manager,16140,27,3,4,No,4,Yes
+53284,23,Male,HR,HR Executive,5000,20,2,4,No,5,Yes
+7097,41,Female,HR,Software Engineer,15295,12,2,1,No,4,No
+12593,34,Male,HR,Sales Executive,16212,19,1,2,Yes,1,No
+17810,22,Male,Marketing,Sales Executive,15728,36,4,2,No,1,Yes
+62086,24,Male,Admin,HR Executive,5000,30,3,2,Yes,4,No
+78794,50,Male,Sales,Manager,15053,34,4,4,No,3,No
+11768,32,Male,Sales,Recruiter,16116,28,1,3,No,5,No
+82740,48,Male,Marketing,Team Lead,15329,35,4,2,Yes,4,No
+7756,26,Female,Marketing,Recruiter,15825,14,3,3,No,5,No
+98185,18,Male,IT,Business Analyst,15215,24,4,2,Yes,3,No
+58841,54,Male,HR,Sales Executive,15722,6,4,1,Yes,5,No
+7724,24,Female,Finance,Business Analyst,16351,20,4,2,Yes,5,No
+17427,29,Male,HR,Team Lead,16119,28,2,4,Yes,4,No
+42222,56,Female,IT,Team Lead,15092,19,3,4,Yes,3,No
+31805,38,Male,Finance,Manager,15236,14,4,4,Yes,4,Yes
+67446,54,Male,HR,Manager,5000,15,4,1,Yes,2,No
+57548,26,Female,Sales,Data Analyst,15405,34,2,2,Yes,5,No
+30737,25,Male,Marketing,Team Lead,15210,14,1,2,Yes,5,No
+87518,50,Male,Admin,Business Analyst,15697,11,1,1,Yes,5,No
+8256,20,Female,IT,Manager,15074,26,1,2,No,1,No
+77449,27,Female,IT,Business Analyst,15467,32,2,2,Yes,4,No
+37688,31,Male,Marketing,Business Analyst,16239,28,4,3,Yes,1,No
+66897,28,Male,Sales,Sales Executive,16121,35,1,4,No,3,No
+49445,53,Male,HR,Accountant,15496,15,1,4,Yes,1,Yes
+25780,29,Male,Sales,Manager,5000,0,4,3,No,3,No
+16679,42,Male,IT,Accountant,15006,18,3,4,No,2,No
+22482,39,Male,Sales,Data Analyst,15594,15,3,1,Yes,4,Yes
+4514,40,Female,Admin,HR Executive,15278,36,1,2,Yes,2,No
+42125,54,Male,Operations,Data Analyst,15149,12,2,3,Yes,1,No
+77535,30,Female,Sales,Team Lead,16218,19,4,3,No,2,Yes
+79521,37,Female,Marketing,Manager,15683,9,3,3,No,1,Yes
+1865,42,Female,Admin,Accountant,15227,1,2,1,No,1,No
+49655,48,Female,HR,Software Engineer,15938,30,2,2,Yes,4,No
+70236,20,Female,Sales,Team Lead,15708,37,3,2,No,5,No
+45734,31,Male,Finance,Recruiter,15495,11,2,4,No,2,No
+32054,29,Female,Finance,Accountant,15352,2,3,1,No,4,No
+7348,53,Female,HR,Business Analyst,16254,14,1,2,No,5,Yes
+17032,50,Female,Marketing,Data Analyst,15601,0,1,3,Yes,4,No
+74324,44,Female,HR,Manager,16339,25,2,3,Yes,5,No
+88448,21,Female,HR,Accountant,16081,14,1,4,No,1,No
+77203,46,Male,Sales,Business Analyst,16056,6,3,3,Yes,3,No
+40648,56,Female,HR,Accountant,15961,4,4,3,No,1,No
+66194,53,Male,IT,Business Analyst,15230,17,4,1,Yes,2,No
+20127,19,Female,Admin,Software Engineer,15652,36,1,3,Yes,2,No
+30525,40,Female,HR,Team Lead,15844,26,1,2,Yes,5,No
+45515,48,Female,HR,Team Lead,15426,21,1,1,No,4,No
+28658,19,Male,Finance,Accountant,16123,14,1,1,Yes,4,No
+45871,58,Male,Finance,Manager,16068,2,2,3,Yes,4,No
+17544,30,Male,Sales,Recruiter,16163,24,2,2,Yes,4,No
+43914,45,Female,Admin,Sales Executive,16259,26,2,1,No,4,No
+74966,33,Male,HR,Accountant,5000,10,2,3,Yes,3,No
+60570,42,Female,Operations,HR Executive,15790,15,2,4,No,1,Yes
+73466,53,Female,Marketing,Software Engineer,16162,32,2,1,No,5,No
+35915,40,Male,Sales,Software Engineer,15538,34,2,3,Yes,4,No
+59286,58,Female,HR,Business Analyst,15623,15,1,2,No,3,Yes
+69359,60,Female,Sales,Data Analyst,5000,31,3,4,Yes,1,No
+74233,48,Male,Marketing,Recruiter,16355,0,3,2,No,1,No
+4320,47,Female,Admin,HR Executive,15890,26,4,3,Yes,5,No
+87370,30,Female,Finance,Recruiter,15878,8,2,3,No,1,No
+94008,50,Male,HR,HR Executive,15414,2,4,1,Yes,3,Yes
+54270,33,Male,HR,Sales Executive,15295,19,2,1,Yes,4,Yes
+32887,35,Male,Marketing,Business Analyst,15011,6,3,1,Yes,3,No
+26920,37,Male,HR,Business Analyst,15071,40,4,1,No,5,No
+65072,39,Male,Sales,Accountant,15504,9,3,4,Yes,4,No
+42876,49,Female,Finance,HR Executive,16125,39,2,3,Yes,5,No
+91345,26,Female,HR,Accountant,15941,15,4,4,Yes,3,No
+62044,44,Female,HR,Sales Executive,5000,26,1,4,No,2,No
+66394,60,Female,Admin,Software Engineer,15181,32,2,3,No,2,No
+95951,46,Female,HR,Manager,16351,21,4,2,No,4,No
+25527,58,Female,Finance,Sales Executive,15018,7,4,2,Yes,5,No
+89397,37,Female,Admin,Software Engineer,5000,38,2,3,No,5,No
+59676,59,Female,Marketing,Manager,16291,8,2,1,No,3,No
+50554,57,Female,Marketing,Accountant,15629,10,4,3,No,1,No
+2776,57,Male,Finance,Manager,15025,27,3,4,Yes,1,No
+23060,32,Male,Finance,Team Lead,15948,27,2,2,No,2,No
+21976,34,Female,Marketing,Data Analyst,16029,34,4,1,Yes,1,Yes
+12172,33,Female,HR,HR Executive,15245,4,1,2,Yes,5,No
+42955,47,Female,Finance,Team Lead,15416,9,1,3,No,3,No
+96409,30,Male,Sales,Recruiter,15164,4,2,4,No,5,No
+69144,18,Male,Marketing,Business Analyst,5000,13,4,2,No,2,No
+72905,53,Male,HR,Team Lead,5000,23,3,3,No,2,Yes
+17429,56,Male,HR,HR Executive,15564,7,2,3,Yes,4,No
+2711,39,Female,Admin,Team Lead,15895,16,4,4,No,1,No
+81805,40,Male,HR,Business Analyst,15722,10,2,2,No,3,No
+35187,31,Male,Sales,Team Lead,16197,12,2,2,Yes,1,No
+22450,51,Male,Sales,Business Analyst,5000,25,1,2,No,1,No
+99619,35,Female,IT,Accountant,5000,36,4,2,Yes,3,No
+3374,49,Female,HR,Business Analyst,15718,0,2,3,Yes,5,No
+63263,58,Male,Admin,Software Engineer,16298,16,1,4,No,4,Yes
+5670,43,Female,Marketing,Software Engineer,16306,0,1,2,No,2,Yes
+82932,28,Male,HR,Manager,16369,36,2,3,No,5,Yes
+51266,23,Male,Admin,HR Executive,15379,32,1,3,Yes,3,No
+98321,35,Male,IT,Recruiter,5000,19,3,4,No,2,No
+94351,57,Male,HR,Recruiter,15095,6,2,3,Yes,2,No
+43734,39,Male,Sales,HR Executive,15708,35,2,3,No,3,Yes
+82829,56,Female,Sales,Business Analyst,5000,18,4,2,Yes,3,No
+78709,47,Female,IT,Recruiter,15416,21,2,1,Yes,1,No
+65172,54,Male,Marketing,Recruiter,16019,19,2,1,No,1,No
+89441,51,Female,Operations,Business Analyst,15776,5,3,2,Yes,3,No
+47551,24,Male,Finance,Recruiter,5000,22,1,2,Yes,4,No
+76462,25,Male,Admin,Business Analyst,5000,39,1,4,Yes,2,No
+21935,30,Female,Operations,Team Lead,16163,8,3,3,No,4,No
+1479,38,Male,HR,Business Analyst,15727,29,2,2,Yes,3,No
+85829,37,Female,Finance,Sales Executive,16140,32,3,3,Yes,5,No
+62755,56,Male,Finance,Team Lead,15289,24,2,2,No,4,No
+78977,38,Female,IT,Sales Executive,15648,14,2,1,No,1,No
+8892,33,Male,Finance,Software Engineer,16061,27,4,2,No,5,No
+98786,21,Female,HR,Data Analyst,15851,3,3,4,Yes,4,No
+11454,58,Male,IT,Recruiter,15625,22,1,2,No,1,No
+3434,58,Male,HR,Manager,15665,16,1,2,Yes,2,No
+58959,44,Male,Admin,Manager,16152,31,3,1,Yes,1,No
+92977,20,Female,Marketing,Manager,15492,36,2,3,No,1,No
+34660,22,Male,IT,Accountant,5000,2,1,1,No,4,Yes
+58702,19,Female,Operations,Business Analyst,15702,30,1,2,No,5,Yes
+57135,28,Male,Admin,Business Analyst,15648,32,2,2,Yes,1,No
+30500,25,Female,Sales,Software Engineer,16313,12,2,2,Yes,5,Yes
+23760,49,Male,Admin,Team Lead,15336,7,4,1,No,5,No
+12564,20,Female,Finance,Software Engineer,5000,14,2,3,No,5,No
+78166,44,Male,Operations,Recruiter,5000,20,3,1,Yes,2,No
+63975,60,Female,Sales,Team Lead,16082,16,3,2,Yes,1,No
+17529,51,Female,HR,Data Analyst,16064,4,4,2,Yes,3,No
+5370,23,Female,HR,Team Lead,16246,13,1,3,No,5,No
+27773,37,Female,Finance,Data Analyst,15081,7,2,2,Yes,3,No
+76379,45,Male,Sales,Accountant,15279,8,4,3,Yes,4,No
+21400,42,Female,Finance,Data Analyst,16242,26,1,2,No,4,Yes
+9631,24,Female,HR,Manager,15596,40,3,2,Yes,1,No
+25362,26,Female,Operations,Team Lead,15443,3,2,1,Yes,4,No
+30216,45,Male,HR,Data Analyst,15585,10,2,4,No,1,No
+96842,54,Male,Sales,Software Engineer,15670,35,1,2,Yes,5,No
+75330,58,Female,Operations,Accountant,5000,21,2,2,No,5,Yes
+91444,38,Male,HR,Manager,15046,6,2,1,No,5,No
+1999,42,Male,HR,Business Analyst,15129,12,4,4,No,4,No
+77442,45,Female,Admin,Manager,15730,39,3,3,Yes,3,No
+29286,59,Male,HR,Sales Executive,15013,35,4,4,Yes,5,No
+87039,55,Female,Marketing,Team Lead,15404,38,2,2,Yes,4,No
+80088,36,Female,HR,Sales Executive,15775,18,2,2,No,5,No
+27920,54,Male,Sales,Data Analyst,15060,17,3,3,No,1,No
+56552,57,Female,Sales,Sales Executive,5000,5,2,3,Yes,1,No
+21033,60,Male,Sales,Accountant,15236,11,2,3,Yes,5,Yes
+45722,54,Male,IT,Accountant,15522,11,4,1,No,1,No
+17054,47,Male,HR,Accountant,16255,27,2,4,Yes,1,Yes
+56283,58,Female,HR,Team Lead,15034,2,2,3,No,1,No
+44692,28,Female,HR,HR Executive,15684,28,4,3,No,5,No
+98474,31,Male,Sales,Recruiter,5000,7,4,1,Yes,5,No
+76273,27,Female,HR,Sales Executive,16198,17,2,4,Yes,1,No
+2368,28,Male,Sales,Team Lead,15740,6,1,1,Yes,5,No
+21162,29,Female,Finance,Software Engineer,15593,12,2,1,Yes,1,No
+95814,28,Male,HR,Sales Executive,5000,23,2,2,Yes,1,No
+27058,19,Female,HR,HR Executive,15545,7,1,2,Yes,5,No
+32425,38,Female,Admin,Manager,15621,32,3,1,No,2,No
+42710,27,Male,Finance,Sales Executive,15185,38,1,3,No,1,No
+63116,59,Female,Sales,Recruiter,15485,33,2,3,Yes,4,No
+14537,22,Male,IT,Business Analyst,15169,33,3,2,No,2,No
+51319,44,Male,Sales,Recruiter,16166,33,4,3,Yes,3,No
+3721,36,Female,Admin,Data Analyst,15662,36,2,4,No,3,No
+59820,31,Male,Operations,Recruiter,15072,33,3,1,No,4,No
+54457,59,Female,Operations,Manager,15655,10,2,2,No,4,No
+30041,56,Female,Finance,HR Executive,15462,32,3,4,No,5,No
+61909,52,Female,Finance,HR Executive,15555,19,1,3,No,5,No
+90842,25,Female,Admin,Software Engineer,15951,4,4,2,No,2,Yes
+45849,32,Female,Admin,Software Engineer,15158,16,2,2,No,5,No
+94968,38,Female,HR,Accountant,15479,5,2,1,No,3,No
+79249,49,Male,HR,Accountant,16313,24,2,1,No,1,No
+87646,48,Male,Finance,Sales Executive,15354,6,3,1,No,3,No
+69122,43,Male,Admin,Software Engineer,15977,39,3,3,No,4,No
+76709,26,Female,HR,Manager,15064,24,3,1,Yes,5,No
+73895,53,Male,Operations,Business Analyst,16265,18,3,1,Yes,1,Yes
+21011,31,Male,HR,Accountant,16197,36,4,3,Yes,2,No
+43503,27,Male,Operations,Accountant,5000,13,4,2,Yes,4,No
+43858,41,Male,Admin,HR Executive,15648,0,1,4,No,2,No
+70277,30,Male,Operations,Team Lead,15095,35,1,4,Yes,1,No
+43589,38,Male,Admin,Sales Executive,15667,4,1,2,Yes,3,No
+7241,35,Male,Marketing,Accountant,5000,31,2,4,No,4,No
+12095,54,Female,IT,Manager,16171,35,2,4,Yes,3,No
+2368,35,Female,Finance,Software Engineer,15227,4,1,3,No,3,No
+89905,54,Female,Finance,Manager,15910,11,3,4,Yes,4,No
+18722,31,Female,Finance,Software Engineer,15433,1,4,1,No,4,No
+94449,41,Male,Marketing,Recruiter,15501,23,2,1,No,1,Yes
+44205,46,Female,HR,Business Analyst,15425,26,3,3,No,1,No
+40043,41,Female,HR,Team Lead,15871,20,3,1,Yes,2,Yes
+91842,43,Male,Marketing,Recruiter,5000,38,2,2,Yes,5,No
+65403,27,Male,Sales,Accountant,16035,8,1,2,Yes,3,Yes
+32873,39,Male,IT,Sales Executive,15534,24,3,3,No,2,No
+19931,36,Male,HR,Manager,15620,1,2,1,No,5,No
+50648,33,Female,HR,HR Executive,5000,39,1,1,No,1,No
+44084,57,Male,Admin,HR Executive,15068,16,2,3,No,1,Yes
+16406,18,Male,Admin,Business Analyst,15651,3,1,4,No,5,No
+60998,27,Female,HR,Sales Executive,15271,4,1,4,No,3,No
+60119,58,Female,Marketing,HR Executive,16288,30,1,4,No,4,No
+68482,38,Male,Finance,Software Engineer,15504,14,2,4,Yes,4,No
+31943,20,Female,HR,Manager,16031,1,1,4,Yes,3,No
+27932,33,Female,HR,Data Analyst,15443,31,2,1,Yes,1,No
+35254,46,Female,IT,Software Engineer,16241,19,1,3,Yes,2,No
+36557,60,Male,Finance,Accountant,16294,40,2,3,Yes,5,No
+64862,59,Female,HR,Data Analyst,15178,22,1,1,Yes,4,No
+81395,58,Female,Operations,Business Analyst,16159,38,2,1,No,1,No
+66065,41,Male,HR,Data Analyst,15671,38,4,2,Yes,4,No
+11921,49,Female,IT,Team Lead,16266,5,4,2,No,3,No
+88236,53,Male,Operations,Accountant,16017,14,2,1,Yes,3,No
+61126,41,Male,IT,Business Analyst,15242,20,4,2,No,5,No
+86803,22,Male,IT,Data Analyst,5000,23,3,3,Yes,2,No
+40145,42,Male,HR,Software Engineer,5000,23,3,4,No,4,No
+99400,31,Male,IT,Accountant,5000,29,3,1,Yes,3,No
+2231,32,Female,Operations,Recruiter,5000,2,3,4,Yes,4,No
+54461,46,Female,Operations,Team Lead,5000,11,1,2,No,4,No
+31490,24,Male,Operations,Accountant,15950,32,1,2,No,3,No
+38020,53,Male,Admin,Sales Executive,16011,15,2,2,No,4,No
+24696,49,Male,HR,HR Executive,15972,21,2,2,Yes,3,Yes
+74422,59,Male,Sales,Sales Executive,15248,38,4,3,Yes,3,No
+59710,45,Male,HR,Software Engineer,15769,34,1,3,Yes,1,No
+47200,35,Female,HR,Manager,15025,19,4,2,No,2,No
+9030,26,Male,HR,Software Engineer,15127,18,2,1,Yes,5,No
+84688,34,Male,HR,Recruiter,16249,35,2,3,No,3,No
+46716,21,Male,Finance,Recruiter,15554,5,2,2,No,5,No
+69040,45,Male,HR,Team Lead,16188,30,4,1,Yes,2,No
+35114,51,Male,HR,Recruiter,15155,39,2,1,No,5,No
+49827,60,Female,HR,Sales Executive,15761,11,3,2,Yes,4,No
+73705,35,Male,Operations,Sales Executive,16111,8,4,3,Yes,4,No
+26063,29,Male,HR,HR Executive,15508,20,2,4,No,2,Yes
+46793,25,Male,HR,Recruiter,15849,20,2,4,Yes,2,Yes
+11258,31,Male,Finance,Business Analyst,16272,2,4,1,Yes,2,No
+41218,40,Male,Finance,HR Executive,16215,28,1,2,Yes,3,No
+12678,58,Male,Operations,Sales Executive,15512,17,4,3,No,3,No
+13014,55,Female,Finance,Accountant,15676,11,3,4,No,2,Yes
+73639,47,Female,Finance,Sales Executive,16070,35,1,2,Yes,1,Yes
+30076,41,Female,Operations,Software Engineer,16069,5,4,4,No,3,No
+9592,42,Female,Sales,Software Engineer,15942,16,2,4,Yes,5,No
+69103,34,Male,Sales,Data Analyst,15621,22,1,2,No,5,No
+69517,41,Male,IT,Business Analyst,15033,39,1,3,No,5,No
+8644,58,Female,IT,HR Executive,15774,30,2,3,No,4,Yes
+31535,34,Female,Sales,Software Engineer,15444,40,3,2,Yes,3,Yes
+42977,23,Female,Finance,HR Executive,16220,11,2,3,No,1,No
+24491,20,Male,Operations,Data Analyst,15231,1,2,2,Yes,2,No
+42635,41,Female,HR,Business Analyst,15552,32,2,3,No,1,Yes
+18864,52,Female,Sales,Team Lead,5000,36,3,3,Yes,3,No
+72955,34,Female,Sales,HR Executive,15191,8,1,3,No,1,No
+34590,20,Male,Finance,Business Analyst,15331,30,4,4,Yes,1,No
+34018,23,Male,HR,Software Engineer,16086,23,3,1,No,3,Yes
+28802,24,Male,HR,Manager,15563,2,3,4,Yes,3,No
+37501,33,Male,Operations,Data Analyst,16190,2,3,2,No,1,No
+19438,55,Male,Marketing,Team Lead,15241,19,3,2,No,4,Yes
+11466,38,Female,HR,Sales Executive,15879,31,2,1,Yes,2,No
+20315,56,Female,IT,Manager,5000,3,3,2,Yes,2,No
+25709,46,Male,HR,Sales Executive,15341,27,4,3,No,5,No
+40819,21,Male,Finance,Accountant,15181,26,1,4,No,2,No
+49814,51,Female,Finance,Manager,16229,18,2,3,No,1,No
+82714,55,Female,HR,Recruiter,5000,3,2,3,Yes,4,No
+45605,26,Male,Operations,Data Analyst,5000,16,4,2,No,2,No
+95464,36,Female,HR,Software Engineer,16266,10,4,4,Yes,4,No
+53174,23,Male,Operations,Manager,15048,18,4,1,No,4,No
+4367,55,Male,HR,Accountant,15656,11,2,1,Yes,3,Yes
+28288,35,Female,Finance,Business Analyst,15087,13,4,4,No,3,No
+37777,32,Male,Admin,Business Analyst,15584,17,4,4,Yes,2,Yes
+16167,60,Female,Sales,Sales Executive,16212,8,3,1,Yes,1,Yes
+65485,24,Male,Marketing,Accountant,15302,24,3,3,No,2,No
+29207,55,Female,Finance,Accountant,15849,37,3,1,Yes,1,No
+94116,24,Female,Sales,Recruiter,15955,3,4,2,No,1,No
+84404,32,Male,IT,Software Engineer,15672,22,2,4,No,1,No
+88432,41,Female,HR,Recruiter,15969,13,1,3,Yes,2,No
+86613,47,Male,Admin,Manager,15234,35,4,2,Yes,2,No
+11411,34,Male,Finance,Software Engineer,16173,9,4,3,No,3,Yes
+67518,27,Female,Finance,Team Lead,15294,7,3,1,Yes,4,Yes
+49513,20,Male,HR,Data Analyst,15740,4,1,3,Yes,2,No
+36953,19,Female,Marketing,Manager,16357,6,1,4,Yes,4,No
+7181,34,Male,HR,Manager,16353,3,1,1,No,4,No
+27586,48,Female,IT,Software Engineer,15126,4,1,3,Yes,2,No
+71551,30,Female,Admin,Data Analyst,15799,30,4,3,Yes,1,No
+52905,37,Male,HR,Team Lead,15313,40,4,4,No,2,No
+98224,51,Male,Admin,Data Analyst,15012,27,2,4,No,4,Yes
+18306,29,Male,Admin,Recruiter,16069,24,1,4,No,2,No
+89470,53,Female,Marketing,Software Engineer,15659,33,4,4,No,4,No
+90169,36,Male,Operations,Software Engineer,5000,28,3,2,No,4,Yes
+72003,37,Male,Marketing,Business Analyst,15943,3,4,4,No,5,No
+59574,25,Female,Admin,Software Engineer,15638,11,3,4,Yes,4,No
+40595,21,Female,HR,Accountant,15431,3,1,4,No,3,No
+16910,24,Male,Sales,Data Analyst,15642,33,3,1,No,4,No
+62593,42,Female,HR,Recruiter,15666,17,3,4,No,5,No
+92740,29,Male,IT,Team Lead,16020,6,3,3,Yes,3,No
+92320,39,Female,Sales,Data Analyst,15927,2,3,4,No,4,Yes
+17547,18,Male,HR,HR Executive,15411,15,4,1,No,1,No
+67291,58,Female,HR,Business Analyst,15642,17,3,4,Yes,1,No
+34494,22,Female,HR,Data Analyst,15723,31,1,4,Yes,1,Yes
+41710,36,Female,Operations,Software Engineer,15653,5,1,3,Yes,5,No
+15847,42,Female,IT,Recruiter,15972,20,2,2,No,1,Yes
+40695,26,Male,Admin,HR Executive,15716,40,2,2,Yes,3,No
+91174,56,Female,HR,Manager,15990,23,1,1,No,3,No
+43212,56,Male,Sales,Sales Executive,15641,2,4,1,No,3,No
+48599,26,Female,IT,Team Lead,15783,30,2,4,Yes,5,No
+25630,55,Female,HR,Data Analyst,15287,3,4,2,Yes,4,Yes
+81053,48,Male,HR,HR Executive,15623,1,4,2,No,5,No
+94629,57,Male,HR,HR Executive,15317,34,2,4,No,1,No
+11727,22,Female,Admin,Accountant,15592,5,2,3,No,1,Yes
+65363,40,Male,Sales,Sales Executive,15801,32,1,2,Yes,4,Yes
+10057,26,Female,Sales,Manager,15000,19,2,1,Yes,4,No
+49313,37,Female,Operations,Business Analyst,15228,14,1,4,Yes,3,Yes
+87024,41,Female,IT,Business Analyst,15571,14,4,1,Yes,5,No
+47052,56,Female,Marketing,Team Lead,15003,27,1,2,Yes,1,Yes
+97028,20,Male,Operations,Business Analyst,16244,2,4,1,No,1,No
+82363,60,Female,IT,Recruiter,15574,5,3,3,Yes,1,Yes
+97495,22,Female,Admin,Team Lead,15095,29,2,4,Yes,1,No
+38869,54,Male,Sales,Accountant,16316,24,3,2,Yes,2,No
+86861,60,Female,Marketing,HR Executive,15735,29,4,3,Yes,4,No
+85371,38,Female,Finance,Manager,15611,8,2,3,No,2,No
+88288,30,Male,Marketing,Manager,15222,38,2,3,No,2,No
+90907,35,Male,HR,Recruiter,5000,23,3,1,No,3,Yes
+74656,42,Female,HR,Accountant,16264,10,1,4,No,3,No
+17701,47,Female,Marketing,Team Lead,16253,3,1,4,Yes,1,No
+69904,34,Female,IT,Recruiter,15985,5,2,2,Yes,3,No
+26003,30,Male,Sales,Data Analyst,15380,23,3,2,Yes,5,No
+29714,49,Female,Operations,Recruiter,15509,28,1,2,Yes,5,No
+91783,46,Male,IT,Data Analyst,15900,25,4,1,Yes,2,No
+54407,35,Male,IT,HR Executive,15895,5,4,4,Yes,2,No
+38972,51,Female,HR,Recruiter,16279,30,4,2,Yes,1,Yes
+96065,19,Female,Finance,Data Analyst,15176,32,2,2,No,5,No
+19963,51,Female,IT,Data Analyst,16194,20,1,4,Yes,2,No
+40893,37,Male,IT,Manager,5000,29,2,2,No,2,No
+59343,59,Male,Finance,Data Analyst,15320,35,3,4,No,2,No
+93240,54,Male,Sales,Business Analyst,15824,24,3,1,No,2,No
+40299,39,Female,Operations,Business Analyst,15691,29,2,2,No,5,No
+28859,26,Male,IT,Recruiter,15043,10,4,1,Yes,5,No
+83082,48,Male,Admin,Sales Executive,16381,9,1,1,No,3,No
+73552,40,Female,Finance,Manager,15654,20,1,3,Yes,5,No
+17766,45,Female,Finance,Team Lead,15997,4,3,3,No,5,No
+41542,37,Female,HR,Manager,15039,30,2,3,Yes,2,No
+62236,30,Male,Sales,Sales Executive,15614,11,3,3,No,3,No
+66780,40,Female,HR,Recruiter,15614,37,4,2,Yes,2,No
+24504,58,Male,Admin,Sales Executive,15938,32,1,2,Yes,4,No
+54784,52,Female,Sales,Software Engineer,15539,17,4,3,No,2,No
+27803,36,Male,Finance,HR Executive,15395,20,3,3,No,3,No
+45429,56,Female,Finance,Sales Executive,15701,10,2,3,Yes,4,No
+45760,28,Female,Marketing,Accountant,15984,19,2,4,No,2,No
+64909,31,Male,Operations,Recruiter,16125,31,4,3,No,1,No
+36619,45,Female,Sales,Business Analyst,5000,2,4,2,No,5,No
+91329,52,Male,Sales,Accountant,15799,7,3,4,No,2,No
+81182,44,Female,Admin,Business Analyst,15663,27,4,3,Yes,1,Yes
